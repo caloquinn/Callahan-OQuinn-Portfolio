@@ -4,11 +4,15 @@
 
 ## 👋 About Me
 
-Welcome to my portfolio! I'm a passionate Cybersecurity student at NSCC with experience in IT support, incident analysis, and system security. Skilled in Linux, penetration testing, and programming in C, Java, and HTML.
+Hi, I'm **Callahan O'Quinn** — a motivated and adaptable cybersecurity professional currently completing a **Diploma in Cybersecurity at NSCC** (Sydney, Nova Scotia). I have a diverse background spanning government services, IT support, and hands-on technical work, and I'm passionate about building secure systems and protecting organizations from evolving threats.
 
-Previously worked as an IT Assistant supporting Microsoft 365 environments, endpoint security, and user support in a professional setting. I'm interested in cybersecurity, vulnerability analysis, and secure system design.
+Most recently, I worked as an **IT Assistant at Breton Ability**, where I deployed and managed company systems, administered Microsoft 365 environments, monitored endpoints using Field Effect MDR, and ran phishing simulation campaigns with KnowBe4. Prior to that, I served as a **Case Processing Agent at IRCC**, where I developed strong attention to detail and proficiency with government data systems (GCMS) while handling sensitive personal information under strict regulatory compliance.
 
-This GitHub showcases projects and labs related to cybersecurity, programming, and system security.
+My cybersecurity education has given me practical, hands-on experience in **penetration testing, vulnerability assessment, incident response, Linux/Windows system hardening, secure coding, and threat detection**. I'm also pursuing a **Bachelor of Science in Earth Science at St. Francis Xavier University**, which has further developed my analytical thinking, scientific report writing, and ability to work in demanding environments.
+
+I'm looking to bring my technical skills, real-world IT experience, and commitment to continuous learning to a cybersecurity role where I can contribute to a team and grow as a professional.
+
+> 📄 See my **[Resume](./Resume.pdf)** and **[Cover Letter](./CoverLetter.pdf)** for full details on my background and career goals.
 
 ---
 
@@ -16,6 +20,15 @@ This GitHub showcases projects and labs related to cybersecurity, programming, a
 
 - **[Resume](./Resume.pdf)** — My professional resume and qualifications
 - **[Cover Letter](./CoverLetter.pdf)** — Learn more about my career goals and interests
+
+---
+
+## 📫 Contact & Connect
+
+Feel free to reach out to me:
+- **Email:** [callahanwoquinn@gmail.com](mailto:callahanwoquinn@gmail.com)
+- **LinkedIn:** [linkedin.com/in/callahancybersecurity](https://www.linkedin.com/in/callahancybersecurity/)
+- **GitHub:** [@caloquinn](https://github.com/caloquinn)
 
 ---
 
@@ -54,20 +67,34 @@ Step-by-step security guides:
 
 ---
 
-## 🛠️ Skills & Interests
+## 🛠️ Skills
 
-- Network Security
-- Cryptography
-- Vulnerability Assessment
-- Penetration Testing
-- Incident Response
-- Security Tools & Frameworks
+### 💻 Technical Skills
+- Incident analysis, penetration testing, and vulnerability assessment
+- Linux and Windows system hardening and security configuration
+- Threat detection, investigation, and incident response
+- Database security and secure coding practices
+- Network security and segmentation
+- Physical and cyber security assessment
+- BYOD and IT policy development and review
 
----
+### 🔧 Tools & Platforms
+- **Microsoft 365 Admin Centre** — Account management, MFA, role administration
+- **Field Effect MDR** — Endpoint monitoring, threat response, agent deployment
+- **KnowBe4** — Phishing campaign management and PhishER integration
+- **Metasploit Framework** — Exploitation and penetration testing
+- **Linux (Kali, Ubuntu)** — Security tooling, system hardening, scripting
+- **GCMS (Global Case Management System)** — Government case file management
+- **UKG** — Enterprise workforce system deployment and support
 
-## 📫 Contact & Connect
+### 👨‍💻 Programming
+- **C** — Fundamentals and system-level programming
+- **Java** — Object-oriented programming and application development
+- **HTML** — Web basics and understanding of web attack surfaces
 
-Feel free to reach out to me:
-- **Email:** [callahanwoquinn@gmail.com](mailto:callahanwoquinn@gmail.com)
-- **LinkedIn:** [linkedin.com/in/callahancybersecurity](https://www.linkedin.com/in/callahancybersecurity/)
-- **GitHub:** [@caloquinn](https://github.com/caloquinn)
+### 🤝 Soft Skills
+- Team-oriented with strong problem-solving abilities
+- Adaptable and experienced in fast-paced, high-pressure environments
+- Detail-oriented with a focus on accuracy and regulatory compliance
+- Strong technical and scientific report writing
+- Effective communicator across technical and non-technical audiences
