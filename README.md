@@ -40,7 +40,7 @@ Formal security documents and case studies:
 - **[BYOD Policy](./Reports%20%26%20Technical%20Writing/BYOD%20Policy.pdf)** — Bring-Your-Own-Device security policy document
 - **[Building Security Assessment](./Reports%20%26%20Technical%20Writing/Building%20Security%20Assessment.pdf)** — Physical and cyber security evaluation
 - **[Incident Report](./Reports%20%26%20Technical%20Writing/Incident%20Report.pdf)** — Documented incident response write-up
-- **[Security Recommendations](./Reports%20%26%20Technical%20Writing/Security%20Reccomendations.pdf)** — Actionable recommendations for improving an organization's security posture
+- **[Security Recommendations](./Reports%20%26%20Technical%20Writing/Security%20Recommendations.pdf)** — Actionable recommendations for improving an organization's security posture
 
 ### 🔬 [Research](./Research/)
 Technical research papers and summaries:
