@@ -44,7 +44,7 @@ Formal security documents and case studies:
 - *BYOD Policy* — Bring-Your-Own-Device security policy document
 - *Building Security Assessment* — Physical and cyber security evaluation
 - *Incident Report* — Documented incident response write-up
-- *Security Recommendations* — Actionable recommendations for improving an organisation's security posture
+- *Security Recommendations* — Actionable recommendations for improving an organization's security posture
 
 ### 🔬 [Research](./Research/)
 Technical research papers and summaries:
