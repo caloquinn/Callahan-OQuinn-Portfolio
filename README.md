@@ -4,9 +4,11 @@
 
 ## 👋 About Me
 
-Welcome to my cybersecurity portfolio! I'm a passionate cybersecurity student dedicated to learning offensive and defensive security techniques. Through this portfolio, I showcase my hands-on experience, research, and projects in the field of cybersecurity.
+Welcome to my  portfolio! I'm a passionate Cybersecurity student at NSCC with experience in IT support, incident analysis, and system security. Skilled in Linux, penetration testing, and programming in C, Java, and HTML.
 
-I'm constantly exploring new tools, techniques, and vulnerabilities to strengthen my skills and understanding of security best practices.
+Previously worked as an IT Assistant supporting Microsoft 365 environments, endpoint security, and user support in a professional setting. I’m interested in cybersecurity, vulnerability analysis, and secure system design.
+
+This GitHub showcases projects and labs related to cybersecurity, programming, and system security.
 
 ---
 
