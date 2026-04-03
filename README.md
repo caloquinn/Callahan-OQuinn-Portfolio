@@ -8,7 +8,7 @@ Hi, I'm **Callahan O'Quinn** — a motivated and adaptable cybersecurity profess
 
 Most recently, I worked as an **IT Assistant at Breton Ability**, where I deployed and managed company systems, administered Microsoft 365 environments, monitored endpoints using Field Effect MDR, and ran phishing simulation campaigns with KnowBe4. Prior to that, I served as a **Case Processing Agent at IRCC**, where I developed strong attention to detail and proficiency with government data systems (GCMS) while handling sensitive personal information under strict regulatory compliance.
 
-My cybersecurity education has given me practical, hands-on experience in **penetration testing, vulnerability assessment, incident response, Linux/Windows system hardening, secure coding, and threat detection**. I'm also pursuing a **Bachelor of Science in Earth Science at St. Francis Xavier University**, which has further developed my analytical thinking, scientific report writing, and ability to work in demanding environments.
+My cybersecurity education has given me practical, hands-on experience in **penetration testing, vulnerability assessment, incident response, Linux/Windows system hardening, secure coding, and threat detection**. 
 
 I'm looking to bring my technical skills, real-world IT experience, and commitment to continuous learning to a cybersecurity role where I can contribute to a team and grow as a professional.
 
