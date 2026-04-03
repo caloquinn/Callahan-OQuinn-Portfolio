@@ -1,27 +1,19 @@
-# Portfolio
+# Cybersecurity Student Portfolio
 
-Welcome to my portfolio! Here, you will find an overview of my work, skills, and projects.
+## Tutorials
+  - A collection of tutorials on various cybersecurity topics, tools, and techniques.
 
-## About Me
+## Research
+  - Research papers and summaries of recent findings in the field of cybersecurity.
 
-I am a [Your Profession] with experience in [Your Fields/Expertise]. My passion lies in creating and implementing innovative solutions to problems.
+## Blogs
+  - Personal blogs discussing trends, thoughts, and insights in cybersecurity.
 
-## Skills
-- Skill 1
-- Skill 2
-- Skill 3
-- Skill 4
+## Reports & Technical Writing
+  - Detailed reports on projects, findings, and case studies in cybersecurity.
 
-## Projects
+## Programming
+  - Code snippets, projects, and programming-related content pertinent to cybersecurity.
 
-### Project 1
-- **Description:** Brief description of Project 1.
-- **Technologies Used:** Technology 1, Technology 2.
-
-### Project 2
-- **Description:** Brief description of Project 2.
-- **Technologies Used:** Technology 1, Technology 2.
-
-## Contact
-
-Feel free to reach out to me at [Your Email] or connect with me on [Your LinkedIn/GitHub].
+## Penetration Tests
+  - Documentation and findings from penetration tests conducted on various systems.
