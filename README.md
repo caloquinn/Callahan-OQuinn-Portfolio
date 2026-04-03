@@ -12,8 +12,8 @@ I'm constantly exploring new tools, techniques, and vulnerabilities to strengthe
 
 ## 📄 Documents
 
-- **[Resume](./Resume.md)** - My professional resume and qualifications
-- **[Cover Letter](./CoverLetter.md)** - Learn more about my career goals and interests
+- **[Resume](./Resume.pdf)** - My professional resume and qualifications
+- **[Cover Letter](./CoverLetter.pdf)** - Learn more about my career goals and interests
 
 ---
 
