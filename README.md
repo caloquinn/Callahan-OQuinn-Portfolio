@@ -44,8 +44,8 @@ I'm constantly exploring new tools, techniques, and vulnerabilities to strengthe
 ## 📫 Contact & Connect
 
 Feel free to reach out to me:
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn Profile]
+- **Email:** [callahanwoquinn@gmail.com](mailto:callahanwoquinn@gmail.com)
+- **LinkedIn:** [linkedin.com/in/callahancybersecurity](https://www.linkedin.com/in/callahancybersecurity/)
 - **GitHub:** [@caloquinn](https://github.com/caloquinn)
 
 ---
